@@ -1,0 +1,6 @@
+.venv
+results/
+keys/
+data/
+code_snippets.py
+debug.log
