@@ -3,13 +3,6 @@
 
 이 토이프로젝트는 [Playdata](https://playdata.io)에서 진행하는 데이터 엔지니어링 프로젝트 31기 부트 캠프에서 진행하는 프로젝트입니다.
 
-프로젝트에 참여하는 인원들은 다음과 같습니다.
-- [최성현](https://github.com/S0rrow)
-- [유정연](https://github.com/yjyj989812)
-- [김승주](https://github.com/tmdwnabc)
-- [이충원](https://github.com/cw3714)
-- [신소영](https://github.com/soyoungshin1)
-
 해당 프로젝트의 목적은 대한민국에서 전기차를 운용하기 위한 충전소의 수량이 충분히 보급되었는가를 확인하는 것입니다.
 
 ---
